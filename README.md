@@ -10,7 +10,8 @@
 | 1  | **고가용성을 위한 HSRP 라우터 이중화** | HSRP와 ipsla 트래킹을 활용한 연결 상태 감시를 통한 라우터 이중화 | Cisco, HSRP, ipsla, redundancy, high availability | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/leesj000603/NSM) | 2023-09-13 |
 | 2  | **Crontab과 crawling을 사용한 관심종목 주가, 경제 hot 뉴스 제공** | 매일 오전 9시 관심종목의 주가와 실시간 hot뉴스 제공 | Linux, bs4, crontab | 팀 프로젝트 (2명) | [[GitHub 링크]](https://github.com/leesj000603/Coffee-Time) | 2024-09-19 |
 | 3  | **리눅스 시스템 부하테스트** | stress와 sysstat을 이용한 Linux 부하 테스트 | Linux, stress, sysstat, load average, I/Owait, cpu usage | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/linux-stress-test) | 2024-09-23 |
-| 3  | **Docker Image 최적화** | Docker Image의 빌드 시간과 Size를 줄이기 위한 방법 | Docker | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Docker-Image-Optimization) | 2024-09-24 |
+| 4  | **Docker Image 최적화** | Docker Image의 빌드 시간과 Size를 줄이기 위한 방법 | Docker | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Docker-Image-Optimization) | 2024-09-24 |
+| 5  | **Trivy Docker image 보안 자동 점검, slack알림 시스템** | 자동으로 사용중인 DockerContainer의 이미지들을 점검하고 취약점이 발견되면 slack에 알림메세지를 제공한다.  | Trivy, Docker, jp, webhook, 보안취약점 | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Trivy-Alert) | 2024-09-25 |
 
 <br>
 
