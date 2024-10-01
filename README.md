@@ -12,9 +12,8 @@
 | 3  | **리눅스 시스템 부하테스트** | stress와 sysstat을 이용한 Linux 부하 테스트 | Linux, stress, sysstat, load average, I/Owait, cpu usage | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/linux-stress-test) | 2024-09-23 |
 | 4  | **Docker Image 최적화** | Docker Image의 빌드 시간과 Size를 줄이기 위한 방법 | Docker | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Docker-Image-Optimization) | 2024-09-24 |
 | 5  | **Trivy Docker image 보안 자동 점검, slack알림 시스템** | 자동으로 사용중인 DockerContainer의 이미지들을 점검하고 취약점이 발견되면 slack에 알림메세지를 제공  | Trivy, Docker, jp, webhook, 보안취약점 | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Trivy-Alert) | 2024-09-25 |
-| 6  | **On-premise에서의 CI/CD 구현** | 클라우드 환경이 아닌 local On-premise 환경에서 jenkins를 활용한 CI/CD | Jenkins, ngrok, ssh, scp, shell programing, ionotify | 개인 프로젝트 | [[GitHub 링크]]((https://github.com/leesj000603/Onpremise-Jenkins-CICD)) | 2024-09-24 |
+| 6  | **On-premise에서의 CI/CD 구현** | 클라우드 환경이 아닌 local On-premise 환경에서 jenkins를 활용한 CI/CD | Jenkins, ngrok, ssh, scp, shell programing, ionotify | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Onpremise-Jenkins-CICD) | 2024-10-01 |
 
-https://github.com/leesj000603/Onpremise-Jenkins-CICD
 
 <br>
 
