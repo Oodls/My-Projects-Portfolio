@@ -13,6 +13,7 @@
 | 4  | **Docker Image 최적화** | Docker Image의 빌드 시간과 Size를 줄이기 위한 방법 | Docker | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Docker-Image-Optimization) | 2024-09-24 |
 | 5  | **Trivy Docker image 보안 자동 점검, slack알림 시스템** | 자동으로 사용중인 DockerContainer의 이미지들을 점검하고 취약점이 발견되면 slack에 알림메세지를 제공  | Trivy, Docker, jp, webhook, 보안취약점 | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Trivy-Alert) | 2024-09-25 |
 | 6  | **On-premise에서의 CI/CD 구현** | 클라우드 환경이 아닌 local On-premise 환경에서 jenkins를 활용한 CI/CD | Jenkins, ngrok, ssh, scp, shell programing, ionotify | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Onpremise-Jenkins-CICD) | 2024-10-01 |
+| 7  | **Kubernetes의 loadbalancing과 selfhealing** |  Minikube를 사용하여 Kubernetes 클러스터 설정, self-healing, 부하 분산을 테스트하고, CPU 및 메모리 사용량을 모니터링 | kubernetis, minikube, load-balancing, self-healing, docker, springboot, fortio | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Kubernetes-Self-Healing-LoadBalancing) | 2024-10-01 |
 
 
 <br>
