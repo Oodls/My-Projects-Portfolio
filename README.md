@@ -3,6 +3,20 @@
 
 <br>
 
+
+
+### ✨ Backend 프로젝트 목록 ✨
+
+| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
+|----|---------------|------|-----------|----------|------|------|
+| 1  | **Rankit.run** | github 기여도 시각화 / 경쟁 플랫폼 | springboot, react, mysql, aws, GitHub GraphQL API, Oauth2.0 etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/capstone-kw-jjiggle/rankit-be) | 2024-02-01 ~ 진행중 |
+| 2  | **Woori-health** | 건강식품 정기구독 플랫폼 | springboot, react, mysql, tosspayments, springsecurity, schedular, etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/FISub/readme) | 2024-08-13 ~ 진행중 |
+
+---
+
+
+<br>
+
 ### 🎖️ Infra / DevOps 프로젝트 목록 🎖️
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
@@ -16,19 +30,6 @@
 | 7  | **Kubernetes의 loadbalancing과 selfhealing** |  Minikube를 사용하여 Kubernetes 클러스터 설정, self-healing, 부하 분산을 테스트하고, CPU 및 메모리 사용량을 모니터링 | kubernetis, minikube, load-balancing, self-healing, docker, springboot, fortio | 개인 프로젝트 | [[GitHub 링크]](https://github.com/leesj000603/Kubernetes-Self-Healing-LoadBalancing) | 2024-10-01 |
 | 8  | **Jenkins와 Amazon S3, Amazon SQS를 활용한 CI/CD 구현** |  jenkins가 push를 감지하여 jar로 빌드하여 s3에 저장, jar 저장 시 s3는 sqs에 이벤트 메세지 전송, ec2는 메세지를 sqs로부터 확인하여 s3에서 jar를 가져와 실행하는 과정  | Jenkins, ngrok, S3, SQS | 팀 프로젝트 (2명) | [GitHub 링크](https://github.com/leesj000603/AWS-Jenkins-CICD) | 2024-10-11 |
 | 9  | **EKS 맛보기** |  EKS클러스터 생성, pod 레플리카, 디플로이먼트, 로드밸런서서비스를 생성하며 동작을 확인.  | EKS, loadbalancing | 개인 프로젝트 | [GitHub 링크](https://github.com/leesj000603/EKS-training) | 2024-10-11 |
-
-
-
-
-<br>
-
-### ✨ Backend 프로젝트 목록 ✨
-
-| No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
-|----|---------------|------|-----------|----------|------|------|
-| 1  | **Rankit.run** | github 기여도 시각화 / 경쟁 플랫폼 | springboot, react, mysql, aws, GitHub GraphQL API, Oauth2.0 etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/capstone-kw-jjiggle/rankit-be) | 2024-02-01 ~ 진행중 |
-| 2  | **Woori-health** | 건강식품 정기구독 플랫폼 | springboot, react, mysql, tosspayments, springsecurity, schedular, etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/FISub/readme) | 2024-08-13 ~ 진행중 |
-
 
 ---
 
