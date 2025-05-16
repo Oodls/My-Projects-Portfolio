@@ -10,7 +10,7 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  | **WooRibound** | 우리FISA 클라우드 엔지니어링 3기 최종프로젝트 우승작 | springboot, vue.js, express.js, mysql, jenkins, elk stack, aws, etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/WooRibound) | 2024-10-23 ~ 2024-12-12 |
-| 2  | **https://rankit.run** | github 기여도 시각화 / 경쟁 플랫폼 | springboot, react, mysql, aws, GitHub GraphQL API, Oauth2.0 etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/capstone-kw-jjiggle/rankit-be) | 2024-02-01 ~ 진행중 |
+| 2  | **[rankit.run](https://rankit.run)** | github 기여도 시각화 / 경쟁 플랫폼 | springboot, react, mysql, aws, GitHub GraphQL API, Oauth2.0 etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/capstone-kw-jjiggle/rankit-be) | 2024-02-01 ~ 진행중 |
 | 3  | **Woori-health** | 건강식품 정기구독 플랫폼 | springboot, react, mysql, tosspayments, springsecurity, schedular, etc.. | 팀 프로젝트 (4명) | [[GitHub 링크]](https://github.com/FISub/readme) | 2024-08-13 ~ 진행중 |
 
 ---
